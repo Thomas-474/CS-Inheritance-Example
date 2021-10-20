@@ -14,7 +14,3 @@ namespace CS_Inheritance_Example
         void Honk();
     }
 }
-
-
-
-

@@ -32,4 +32,3 @@ namespace CS_Inheritance_Example
 
     }
 }
-
