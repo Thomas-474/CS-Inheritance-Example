@@ -28,7 +28,7 @@ namespace CS_Inheritance_Example
         }
 
         public override string Describe()
-            {return $"This Bicycle is moving on {Wheels} wheels at {Speed} km/h, with license plate {LicensePlate}.";}
+            {return $"This Bicycle is moving on {Wheels} wheels at {Speed} km/h.";}
 
     }
 }
